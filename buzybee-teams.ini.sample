@@ -1,0 +1,4 @@
+[teams]
+bearer-token=FIXME
+[buzybee]
+status-url=http://raspberrypi:5000/api/v1/status
